@@ -43,4 +43,10 @@ body {
     0 0 20px #d9d9d9,
     0 0 30px #f2f2f2,
     0 0 40px #ffffff;
+  border-style: solid none none none;
+  border-width: 5px;
+}
+
+#info {
+  margin-top: 50px;
 }
